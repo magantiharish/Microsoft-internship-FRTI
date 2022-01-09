@@ -1,4 +1,4 @@
-# ecommerce1
+# ecommerce Future Ready Talent Project
 
 This is 10 Page E-commerce Front End website design
 
